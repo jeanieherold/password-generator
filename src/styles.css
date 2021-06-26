@@ -1,0 +1,5 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* bulma - style framework much like bootstrap is in node_modules
+importing like below - angular will know it is in the node_module folder */
+@import 'bulma/css/bulma.css';
